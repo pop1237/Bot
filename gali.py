@@ -2,7 +2,7 @@ import telebot
 from telebot import types
 import time  # Import the time module
 
-token = "7743563287:AAEUCju9JoHWQoWV-Jg-ul6hBT3h3PYEDdM"
+token = "7750831507:AAFtAWadY_CM1lQUQT474tk0YViTrezTGL4"
 bot = telebot.TeleBot(token)
 galis = ["MADARCHOD TERI MAA KI CHUT ME GHUTKA KHAAKE THOOK DUNGA 🤣🤣",
     "TERE BEHEN K CHUT ME CHAKU DAAL KAR CHUT KA KHOON KAR DUGA",
@@ -207,7 +207,7 @@ galis = ["MADARCHOD TERI MAA KI CHUT ME GHUTKA KHAAKE THOOK DUNGA 🤣🤣",
     "RANDI KE BACHE",
     "TERA MAA MERI FAN",
     "TERI SEXY BAHEN KI CHUT OP","Teri Gand me mera land mc"]
-admins = [7412180679]
+admins = [5730843286]
 my = types.InlineKeyboardButton(text="Owner", url="t.me/team_nh")
 xx = types.InlineKeyboardMarkup()
 xx.add(my)
